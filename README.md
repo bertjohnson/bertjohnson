@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a full-stack developer who loves writing cloud-based Go and TypeScript solutions.
+
+I'm available for projects at https://dev.inc
+
 <!--
 **bertjohnson/bertjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
